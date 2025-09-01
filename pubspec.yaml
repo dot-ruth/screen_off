@@ -6,7 +6,7 @@ repository: https://github.com/Musaddiq625/screen_off
 issue_tracker: https://github.com/Musaddiq625/screen_off/issues
 
 environment:
-  sdk: ^3.7.0
+  sdk: ^3.6.0
   flutter: '>=3.3.0'
 
 dependencies:
